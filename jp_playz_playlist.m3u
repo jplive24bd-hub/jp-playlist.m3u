@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="HridoyTV" tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other",HridoyTV
+https://hridoytvx.pages.dev/HridoyTV%20video%20new/master.m3u8
+#EXTINF:-1 tvg-name="T sports" tvg-logo="https://i.postimg.cc/X7XkjfpT/Resized-Image-2026-07-20-20-31-03-8994-1.webp" group-title="Sports",T sports
+https://proxy.hridoytv.workers.dev/tsports6.m3u8
+#EXTINF:-1 tvg-name="Sonic Bangla" tvg-logo="https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp" group-title="Kids",Sonic Bangla
+https://csockets.hellohridoy.workers.dev/sonicbangla.m3u8
+#EXTINF:-1 tvg-name="Sonic Bangla Backup" tvg-logo="https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp" group-title="Kids",Sonic Bangla Backup
+https://pro.hridoytv-pro.workers.dev/live/1345.m3u8
