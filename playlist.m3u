@@ -1,0 +1,139 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/guides/bd.xml"
+
+# ==========================================
+# CATEGORY: OTHER
+# ==========================================
+
+#EXTINF:-1 tvg-id="HridoyTV" tvg-logo="https://i.ibb.co/7d3zw9xG/995c13c59b1d.jpg" group-title="Other", HridoyTV
+https://hridoytvx.pages.dev/HridoyTV%20video%20new/master.m3u8
+
+# ==========================================
+# CATEGORY: SPORTS
+# ==========================================
+
+#EXTINF:-1 tvg-id="HridoyTVSports" tvg-logo="https://i.postimg.cc/ncYJ6Zd4/Hridoy-TV-sports.webp" group-title="Sports", HridoyTV Sports
+https://proxy.hridoytv.workers.dev/foxcricket.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports" tvg-logo="https://i.postimg.cc/SKNmzxCN/In-Shot-20260720-205147434.jpg" group-title="Sports", PTV sports
+https://proxy.hridoytv.workers.dev/ptvsports.m3u8
+
+#EXTINF:-1 tvg-id="GeoSuperHD" tvg-logo="https://i.postimg.cc/Px2wnr3C/In-Shot-20260819-202641826.jpg" group-title="Sports", Geo Super HD
+https://proxy.hridoytv.workers.dev/geosuper.m3u8
+
+#EXTINF:-1 tvg-id="Cricbuzz" tvg-logo="https://i.postimg.cc/fRGZjBSG/In-Shot-20260820-020014010.jpg" group-title="Sports", Cricbuzz
+https://proxy.hridoytv.workers.dev/astrocricket.m3u8
+
+#EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://i.postimg.cc/xdBGKj6h/In-Shot-20260809-032438799.jpg" group-title="Sports", Willow Sports
+https://proxy.hridoytv.workers.dev/willowsports.m3u8
+
+#EXTINF:-1 tvg-id="Willow" tvg-logo="https://i.postimg.cc/KYC7nc0V/In-Shot-20260809-032306616.jpg" group-title="Sports", Willow
+https://proxy.hridoytv.workers.dev/willow.m3u8
+
+#EXTINF:-1 tvg-id="WillowHD" tvg-logo="https://i.postimg.cc/ZqXPrYwQ/In-Shot-20260809-032524015.jpg" group-title="Sports", Willow HD
+https://proxy.hridoytv.workers.dev/willowhd.m3u8
+
+#EXTINF:-1 tvg-id="Willow2" tvg-logo="https://i.postimg.cc/MGg0yZ9F/In-Shot-20260809-032535574.jpg" group-title="Sports", Willow 2
+https://proxy.hridoytv.workers.dev/willow2.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1" tvg-logo="https://i.postimg.cc/SKqDbqKD/Hridoy-TV-pro-(63).webp" group-title="Sports", Star sports 1
+https://proxy.hridoytv.workers.dev/starsports1.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1Hindi" tvg-logo="https://i.postimg.cc/kgWfHD7N/Hridoy-TV-pro-(56).webp" group-title="Sports", Star Sports 1 Hindi
+https://proxy.hridoytv.workers.dev/starsports1hindi.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2" tvg-logo="https://i.postimg.cc/SKqDbqKf/Hridoy-TV-pro-(61).webp" group-title="Sports", Star sports 2
+https://proxy.hridoytv.workers.dev/starsports2.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2Hindi" tvg-logo="https://i.postimg.cc/G2t1TwV6/In-Shot-20260820-115651154.jpg" group-title="Sports", Star Sports 2 Hindi
+https://proxy.hridoytv.workers.dev/starsports2hindi.m3u8
+
+#EXTINF:-1 tvg-id="StarSports3" tvg-logo="https://i.postimg.cc/7PX2ygnb/In-Shot-20260820-115233215.jpg" group-title="Sports", Star Sports 3
+https://proxy.hridoytv.workers.dev/starsports3.m3u8
+
+#EXTINF:-1 tvg-id="Unite8Sports1HD" tvg-logo="https://i.postimg.cc/mZKzdycQ/Resized-Image-2026-08-13-11-47-30-5275-2.webp" group-title="Sports", Unite8 Sports 1 HD
+https://proxy.hridoytv.workers.dev/unite8sports1.m3u8
+
+#EXTINF:-1 tvg-id="FoxCricket" tvg-logo="https://i.postimg.cc/qqLpPQtJ/hridoytvgate-(17).webp" group-title="Sports", Fox Cricket
+https://proxy.hridoytv.workers.dev/foxcricket501.m3u8
+
+#EXTINF:-1 tvg-id="SuperSportsCricket" tvg-logo="https://i.postimg.cc/YCGMWJ0T/In-Shot-20260820-015955950.jpg" group-title="Sports", Super Sports Cricket
+https://proxy.hridoytv.workers.dev/supersportcricket.m3u8
+
+#EXTINF:-1 tvg-id="SonyTen3" tvg-logo="https://i.postimg.cc/jSyZ1CRC/Hridoy-TV-pro-(53).webp" group-title="Sports", Sony ten 3
+https://proxy.hridoytv.workers.dev/sonyten3.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricket" tvg-logo="https://i.postimg.cc/XvBR9K4B/Resized-Image-2026-07-24-20-10-46-5697-2.webp" group-title="Sports", Sky sports cricket
+https://proxy.hridoytv.workers.dev/skysportscricket.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports1" tvg-logo="https://i.ibb.co/C5FfY6Y0/04d598e93161.jpg" group-title="Sports", TNT sports 1
+https://proxy.hridoytv.workers.dev/tntsport1.m3u8
+
+#EXTINF:-1 tvg-id="SportsRange" tvg-logo="https://i.postimg.cc/NFVp3Hyj/Hridoy-TV-pro-(3).webp" group-title="Sports", Sports Range
+https://proxy.hridoytv.workers.dev/sportsrange.m3u8
+
+#EXTINF:-1 tvg-id="TSports" tvg-logo="https://i.postimg.cc/X7XkjfpT/Resized-Image-2026-07-20-20-31-03-8994-1.webp" group-title="Sports", T sports
+https://proxy.hridoytv.workers.dev/tsports6.m3u8
+
+# ==========================================
+# CATEGORY: BANGLA
+# ==========================================
+
+#EXTINF:-1 tvg-id="NTV" tvg-logo="https://i.ibb.co/99T05yyw/fe2bed6ac5af.jpg" group-title="Bangla", NTV
+https://proxy.hridoytv.workers.dev/ntv.m3u8
+
+#EXTINF:-1 tvg-id="USB24News" tvg-logo="https://i.postimg.cc/y69FN9QJ/Usb-Hridoy-TV.jpg" group-title="Bangla", USB 24 News
+https://proxy.hridoytv.workers.dev/usbtv.m3u8
+
+#EXTINF:-1 tvg-id="MagicBanglaTV" tvg-logo="https://i.ibb.co.com/FLcSY5Vn/Hridoy-TV-new-bd-channel-2.jpg" group-title="Bangla", Magic Bangla TV
+https://proxy.hridoytv.workers.dev/magicbanglatv.m3u8
+
+#EXTINF:-1 tvg-id="BiswaBanglaWorldTV" tvg-logo="https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg" group-title="Bangla", Biswa Bangla World TV
+https://proxy.hridoytv.workers.dev/biswabanglaworldtv.m3u8
+
+#EXTINF:-1 tvg-id="AmericaBanglaChannel" tvg-logo="https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg" group-title="Bangla", America Bangla Channel
+https://proxy.hridoytv.workers.dev/americabanglachannel.m3u8
+
+# ==========================================
+# CATEGORY: INDIAN BANGLA
+# ==========================================
+
+#EXTINF:-1 tvg-id="StarJalsaHD" tvg-logo="https://i.postimg.cc/28GZ2hQs/Resized-Image-2026-08-10-11-48-00-8830-4.webp" group-title="Indian Bangla", Star Jalsa HD
+https://proxy.hridoytv.workers.dev/starjalsahd.m3u8
+
+# ==========================================
+# CATEGORY: MOVIES & ENTERTAINMENT
+# ==========================================
+
+#EXTINF:-1 tvg-id="ColorsCineplex" tvg-logo="https://i.postimg.cc/cJZXGZJg/Hridoy-TV-pro-(58).webp" group-title="Movies", Colors Cineplex
+https://proxy.hridoytv.workers.dev/colorscineplex.m3u8
+
+#EXTINF:-1 tvg-id="ColorsHD" tvg-logo="https://i.postimg.cc/sDQnpw8P/Hridoy-TV-pro-(33).webp" group-title="Entertainment", Colors HD
+https://proxy.hridoytv.workers.dev/colorshd.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus" tvg-logo="https://i.postimg.cc/bYFCDK6z/Hridoy-TV-pro-(21).webp" group-title="Entertainment", Star Plus
+https://proxy.hridoytv.workers.dev/starplus.m3u8
+
+# ==========================================
+# CATEGORY: KIDS
+# ==========================================
+
+#EXTINF:-1 tvg-id="DurantaTV" tvg-logo="https://i.postimg.cc/nLgBTjrW/In-Shot-20260808-131440307.jpg" group-title="Kids", Duranta TV 🔥
+https://proxy.hridoytv.workers.dev/durantatv.m3u8
+
+#EXTINF:-1 tvg-id="SonicBangla" tvg-logo="https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp" group-title="Kids", Sonic Bangla
+https://csockets.hellohridoy.workers.dev/sonicbangla.m3u8
+
+#EXTINF:-1 tvg-id="SonicBanglaBackup" tvg-logo="https://i.postimg.cc/T1SCzDyb/Hridoy-TV-pro-(7).webp" group-title="Kids", Sonic Bangla (Backup)
+https://pro.hridoytv-pro.workers.dev/live/1345.m3u8
+
+#EXTINF:-1 tvg-id="Hungama" tvg-logo="https://i.postimg.cc/63M74wKX/In-Shot-20260722-230736763.jpg" group-title="Kids", Hungama
+https://proxy.hridoytv.workers.dev/hungama.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://iili.io/CpgdfYN.md.webp" group-title="Kids", Nickelodeon 🔥
+https://proxy.hridoytv.workers.dev/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" group-title="Kids", Disney channel
+https://proxy.hridoytv.workers.dev/disneychannel.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrHindi" tvg-logo="https://i.postimg.cc/7PQsGpKF/Hridoy-TV-pro-(17).webp" group-title="Kids", Disney Jr. Hindi
+https://proxy.hridoytv.workers.dev/disneyjrhindi.m3u8
