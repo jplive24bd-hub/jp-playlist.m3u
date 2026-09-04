@@ -1,254 +1,235 @@
 #EXTM3U x-tvg-url="https://github.com/iptv-org/epg/raw/master/guides/in.xml"
 
-#GROUP: Sports Channels
-
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=ag-ycolGieptBhay3XzkuQ&expires=1788519047
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=ag-ycolGieptBhay3XzkuQ&expires=1788519047|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="Sports",Star Sports 1 Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=GU1pb-DwR9v0_43urLVOAg&expires=1788519048
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=GU1pb-DwR9v0_43urLVOAg&expires=1788519048|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="Sports",PTV Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ihp-I9LEITqOUs4m45DHhw&expires=1788519048
+https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ihp-I9LEITqOUs4m45DHhw&expires=1788519048|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=tH8hBWEe333ngqv6sCY8oQ&expires=1788519048
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=tH8hBWEe333ngqv6sCY8oQ&expires=1788519048|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Willow HD 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=xWaX0Ymohor8Oc8y126hzw&expires=1788519048
+https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=xWaX0Ymohor8Oc8y126hzw&expires=1788519048|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="Sports",Ten Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn10.zohanayaan.com:1686/hls/tenspk.m3u8?md5=_fMrDFmr419i7-cIE5pHlQ&expires=1788519049
+https://cdn10.zohanayaan.com:1686/hls/tenspk.m3u8?md5=_fMrDFmr419i7-cIE5pHlQ&expires=1788519049|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="A Sports HD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=E22yvFxGtBF09ZPN4Lz8CA&expires=1788519049
+https://cdn5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=E22yvFxGtBF09ZPN4Lz8CA&expires=1788519049|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sports",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-_oT8IDnHHbK3OY_PmF3HA&expires=1788519049
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-_oT8IDnHHbK3OY_PmF3HA&expires=1788519049|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png" group-title="Sports",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=1x6NpcF_ebvbfZEkW53elg&expires=1788519049
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=1x6NpcF_ebvbfZEkW53elg&expires=1788519049|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn10.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=AYVt87SNREycyNP9QhhahQ&expires=1788519049
+https://cdn10.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=AYVt87SNREycyNP9QhhahQ&expires=1788519049|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn7.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=iqqarC4i3BFlmo4PHYk7qQ&expires=1788519049
+https://cdn7.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=iqqarC4i3BFlmo4PHYk7qQ&expires=1788519049|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=7RKzG4xAlNjnwSxCEPtjpA&expires=1788519050
+https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=7RKzG4xAlNjnwSxCEPtjpA&expires=1788519050|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="Sports",TNT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=3JXGkseYAKKqKdQKjE4yww&expires=1788519050
+https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=3JXGkseYAKKqKdQKjE4yww&expires=1788519050|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn7.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=FyBsOwOlcmRiGE_EC7nRtw&expires=1788519050
+https://cdn7.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=FyBsOwOlcmRiGE_EC7nRtw&expires=1788519050|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn6.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=rxQa0EkwKoBc8DRdlqB5lQ&expires=1788519050
+https://cdn6.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=rxQa0EkwKoBc8DRdlqB5lQ&expires=1788519050|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn4.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=VgkE1WoavctBIgoCYcd3EQ&expires=1788519050
+https://cdn4.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=VgkE1WoavctBIgoCYcd3EQ&expires=1788519050|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 4" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn8.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=z0Z1rmeWvSSFqtvf05Q1YA&expires=1788519051
+https://cdn8.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=z0Z1rmeWvSSFqtvf05Q1YA&expires=1788519051|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 5" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn5.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=KG_xYDdl7VL-eDucAlIfGg&expires=1788519051
+https://cdn5.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=KG_xYDdl7VL-eDucAlIfGg&expires=1788519051|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 Nz" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport 6 Nz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn7.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=AYI3RDoEO3LRIZ_3OiJ8IQ&expires=1788519051
+https://cdn7.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=AYI3RDoEO3LRIZ_3OiJ8IQ&expires=1788519051|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 7" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn10.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=_EpLcgL6PdIHWSllp0sSyA&expires=1788519051
+https://cdn10.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=_EpLcgL6PdIHWSllp0sSyA&expires=1788519051|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 8" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn8.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=aDbIMTvGAUFy6xkXwBMuVQ&expires=1788519051
+https://cdn8.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=aDbIMTvGAUFy6xkXwBMuVQ&expires=1788519051|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Nz 9" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png" group-title="Sports",Sky Sport Nz 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn10.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=Um4BfiuTbVG1snNvc_ScXw&expires=1788519052
+https://cdn10.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=Um4BfiuTbVG1snNvc_ScXw&expires=1788519052|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png" group-title="Movies",Sky Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=1x6NpcF_ebvbfZEkW53elg&expires=1788519049
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=1x6NpcF_ebvbfZEkW53elg&expires=1788519049|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png" group-title="Sports",Sky Sports Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn9.zohanayaan.com:1686/hls/skysact.m3u8?md5=1JzR77d3yn_lmTp-aFNIdQ&expires=1788519052
+https://cdn9.zohanayaan.com:1686/hls/skysact.m3u8?md5=1JzR77d3yn_lmTp-aFNIdQ&expires=1788519052|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png" group-title="Sports",Sky Sports Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn3.zohanayaan.com:1686/hls/skysgol.m3u8?md5=nLUtkwzTqlOufNNfxviVJw&expires=1788519052
+https://cdn3.zohanayaan.com:1686/hls/skysgol.m3u8?md5=nLUtkwzTqlOufNNfxviVJw&expires=1788519052|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png" group-title="Sports",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn5.zohanayaan.com:1686/hls/skysprem.m3u8?md5=LQ5w-k9rZaboU1vIAKpQBw&expires=1788519052
+https://cdn5.zohanayaan.com:1686/hls/skysprem.m3u8?md5=LQ5w-k9rZaboU1vIAKpQBw&expires=1788519052|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png" group-title="Sports",Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn3.zohanayaan.com:1686/hls/skysfott.m3u8?md5=gyr0z_go5oRHJmiyG1pTZw&expires=1788519052
+https://cdn3.zohanayaan.com:1686/hls/skysfott.m3u8?md5=gyr0z_go5oRHJmiyG1pTZw&expires=1788519052|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Plus" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png" group-title="Sports",Sky Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=kKNpz2GJyaM5NQg7km1q2w&expires=1788519052
+https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=kKNpz2GJyaM5NQg7km1q2w&expires=1788519052|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="Sports",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
+#EXTHTTP:{"Referer":"https://executeandship.com/","User-Agent":"Mozilla/5.0"}
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn1.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=cFjvLkKl_IXniDHPfDv5zw&expires=1788519053
+https://cdn1.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=cFjvLkKl_IXniDHPfDv5zw&expires=1788519053|User-Agent=Mozilla/5.0&Referer=https://executeandship.com/
 
-#EXTINF:-1 tvg-id="" tvg-name="LaLiGA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title="Sports",LaLiGA
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn7.zohanayaan.com:1686/hls/laligauk.m3u8?md5=_-cEbV7x6w5RYb4UxMjJfA&expires=1788519053
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Sports",Premier Sports 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn1.zohanayaan.com:1686/hls/premieruk.m3u8?md5=buTkf1G71lhHaJev_beVbw&expires=1788519053
-
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sports 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png" group-title="Sports",Premier Sports 2
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=zS1NFSYCKnMeZVQaT27o0w&expires=1788519053
-
-#EXTINF:-1 tvg-id="" tvg-name="Super Football" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Sports",Super Football
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn5.zohanayaan.com:1686/hls/superfotball.m3u8?md5=EAeQ5YLBCkaqFtpBBlLydA&expires=1788519053
-
-#EXTINF:-1 tvg-id="" tvg-name="Super Premier League" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png" group-title="Sports",Super Premier League
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn7.zohanayaan.com:1686/hls/superpremier.m3u8?md5=d0RIGH3KyWWSCJ2HWqjJqQ&expires=1788519053
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png" group-title="Sports",Astro Cricket
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn10.zohanayaan.com:1686/hls/fox501.m3u8?md5=cWLao9GWx6dFsxgY9mV6aw&expires=1788519054
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Sports",ESPN 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn8.zohanayaan.com:1686/hls/espnusa.m3u8?md5=D3vuNmFYGjYysbIrR8m7NA&expires=1788519054
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="Sports",ESPN 2
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn9.zohanayaan.com:1686/hls/espn2.m3u8?md5=J4hojxSwUnaUgPbkhBzZUQ&expires=1788519054
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png" group-title="Sports",Sky Sports Arena
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=kKNpz2GJyaM5NQg7km1q2w&expires=1788519052
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png" group-title="Sports",Sky Sports Mix
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn6.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=kAQK39tR05AYXf9rJCcQQg&expires=1788519054
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Tennis" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png" group-title="Sports",Sky Sports Tennis
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn5.zohanayaan.com:1686/hls/skystennis.m3u8?md5=yXnWdelcQSjvxcpZbpvwXA&expires=1788519054
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Cricket 501 HD" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" group-title="Sports",Fox Cricket 501 HD
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://executeandship.com/&User-Agent=Mozilla/5.0
-https://cdn10.zohanayaan.com:1686/hls/fox501.m3u8?md5=cWLao9GWx6dFsxgY9mV6aw&expires=1788519054
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony Sports3" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png" group-title="Sports",Sony Sports3
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-#KODIPROP:inputstream.adaptive.manifest_headers=Referer=htt
+#EXTINF:-1 tvg-id="" tvg-name="LaLiGA" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png" group-title
