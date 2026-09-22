@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://thumbnail.imgbin.com/20/15/16/imgbin-colors-bangla-bengali-television-show-television-channel-nepalis-mMkyqFccg0kQacbaxGNmpXFFv_t.jpg" group-title="Bangla Drama",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deshe Bideshe (S1)" tvg-logo="https://lo1.in/ind/deshb.png" group-title="Bangla Drama",Deshe Bideshe (S1)
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-id="EpicCrimes.in@SD" tvg-name="Epic Crimes" tvg-logo="https://i.imgur.com/EFDsCkH.png" group-title="Bangla Drama",Epic Crimes
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="G Series (S1)" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg" group-title="Bangla Drama",G Series (S1)
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="G Series (S2)" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-08/images_167c4819de7e4c8618edd4369a0ebefa_playmist_g_series_drama400x400.jpg" group-title="Bangla Drama",G Series (S2)
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRB TV (S1)" tvg-logo="https://lo1.in/ind/nrb.png" group-title="Bangla Drama",NRB TV (S1)
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath (S1)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" group-title="Bangla Drama",Sony Aath (S1)
+https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="SRK TV (S1)" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla Drama",SRK TV (S1)
+https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="141000" tvg-name="SRK TV (S2)" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla Drama",SRK TV (S2)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD (S1)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Bangla Drama",Star Jalsha HD (S1)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD (S2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Bangla Drama",STAR JALSHA HD (S2)
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD" tvg-name="Zee Bangla HD (S1)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Bangla Drama",Zee Bangla HD (S1)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD (S2)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Bangla Drama",Zee Bangla HD (S2)
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8

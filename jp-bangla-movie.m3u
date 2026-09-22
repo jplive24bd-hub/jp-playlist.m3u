@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-name="Aamar Bangla (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Bangla Movies",Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Plus" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="Bangla Movies",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deshi TV" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Bangla Movies",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movie" tvg-logo="https://otapp.store/uploads/tv_image/sm/jalsha-movies-hd.png" group-title="Bangla Movies",Jalsha Movie
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Bangla" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/2b3a29b6-924e-4550-874b-f6038a287e38.png" group-title="Bangla Movies",Movies Bangla
+https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Bangla (S1)" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="Bangla Movies",Zee Cinema Bangla (S1)
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-name="Zee Cinema Bangla (S2)" tvg-logo="https://assets-prod.services.toffeelive.com/-C7MX5UBv9knK3AHdKOi/posters/e37fef13-9bf3-4ecc-8b74-fca091874fa0.png" group-title="Bangla Movies",Zee Cinema Bangla (S2)
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8

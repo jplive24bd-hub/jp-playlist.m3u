@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Atn Music" tvg-logo="https://lo1.in/ind/atnms.png" group-title="Bangla Music",Atn Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Beats" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/57d94f39-c6d3-4ee7-a7bf-50b296fe3462.jpg" group-title="Bangla Music",Bangla Beats
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enter TV (S2)" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/caf598e5-8d84-4e84-bcb2-d85328bec4d4.png" group-title="Bangla Music",Enter TV (S2)
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jhankar TV" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/6871833f-9b98-4e37-a60f-266f75ba2548.gif" group-title="Bangla Music",Jhankar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Bangla 2025" tvg-logo="http://data.jaagobd.com/media/channel_logos/Noboruptvnew.jpeg" group-title="Bangla Music",Music Bangla 2025
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="Sangeet Bangla (S2)" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380" group-title="Bangla Music",Sangeet Bangla (S2)
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla (S1)" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380" group-title="Bangla Music",Sangeet Bangla (S1)
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZB Music" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/282b4a85-16db-4146-b263-97d4957cc134.png" group-title="Bangla Music",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8

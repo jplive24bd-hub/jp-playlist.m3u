@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ABP Ananda (S1)" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" group-title="Bangla News",ABP Ananda (S1)
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abp Ananda (S2)" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" group-title="Bangla News",Abp Ananda (S2)
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ak News" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/0fd0fdca-a4fd-496c-83af-a2962fce05ea.jpg" group-title="Bangla News",Ak News
+http://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" tvg-name="AKD Calcutta News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="Bangla News",AKD Calcutta News
+https://live.legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV News (S1)" tvg-logo="https://s3.aynaott.com/storage/35ae3e7750a053925a0a1732e219dc7a" group-title="Bangla News",BTV News (S1)
+https://btv.hridoytv-channel.workers.dev/news.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News (S1)" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="Bangla News",DBC News (S1)
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD (S2)" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="Bangla News",DBC News HD (S2)
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jago News 24" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/5832e1a9-9cee-4907-a30f-7808701548f1.jpg" group-title="Bangla News",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 BD" tvg-logo="https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b" group-title="Bangla News",News 24 BD
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News18 Bangla" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/fd85ffdd-ef44-490d-93d9-ac3fc398ac47.png" group-title="Bangla News",News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R Plus Gold (S1)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="Bangla News",R Plus Gold (S1)
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R Plus News (S2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="Bangla News",R Plus News (S2)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bangla" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/4007b7c5-5a8a-4ea5-a7de-58b47dd3819b.jpg" group-title="Bangla News",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Samay Kolkata (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="Bangla News",Samay Kolkata (1080p)
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4c8e446a0a7c9f1c28fd6aef2c19132d_playmist_star_news400x400.jpg" group-title="Bangla News",Star News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV9 Bangla" tvg-logo="https://i.supaimg.com/a3998c0b-9c37-452c-a51a-10bb3a916132/3e648050-840a-4094-abd7-28d256efb754.jpg" group-title="Bangla News",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Ghonta (S1)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="Bangla News",Zee 24 Ghonta (S1)
+https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="zee 24 Ghonta (S2)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="Bangla News",zee 24 Ghonta (S2)
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Ghonta HD" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png" group-title="Bangla News",Zee 24 Ghonta HD
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8

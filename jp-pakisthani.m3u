@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24 News HD" tvg-logo="https://i.postimg.cc/br6zwW0M/image-search-1789904675930.jpg" group-title="Pakistani",24 News HD
+https://s4.ideationtec.live/Channel_24_HD/Channel_24_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Plus" tvg-logo="https://i.postimg.cc/kG5mzw3m/image-search-1789904801023.jpg" group-title="Pakistani",A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aaj News" tvg-logo="https://i.postimg.cc/DZxVrsWL/image-search-1789904886097.jpg" group-title="Pakistani",Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aan TV" tvg-logo="https://i.postimg.cc/1XbjBKyB/image-search-1789904990404.jpg" group-title="Pakistani",Aan TV
+https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AJJ ENTERTAINMENT HD" tvg-logo="https://i.postimg.cc/7Pp4m3sg/image-search-1789905137772.jpg" group-title="Pakistani",AJJ ENTERTAINMENT HD
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AURLIFE HD" tvg-logo="https://i.postimg.cc/2ynKHZ3z/image-search-1789905283326.jpg" group-title="Pakistani",AURLIFE HD
+https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bol Entertainment" tvg-logo="https://i.postimg.cc/90BBRtrm/image-search-1789905500934.jpg" group-title="Pakistani",Bol Entertainment
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bol News" tvg-logo="https://i.postimg.cc/1RD71DRv/image-search-1789905397695.jpg" group-title="Pakistani",Bol News
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discover Pakistan" tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png" group-title="Pakistani",Discover Pakistan
+https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Express Entertainment" tvg-logo="https://i.postimg.cc/GhHBsxBD/image-search-1789905688277.jpg" group-title="Pakistani",Express Entertainment
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geo Kahani" tvg-logo="https://i.postimg.cc/ncyL9bfB/image-search-1789905765489.jpg" group-title="Pakistani",Geo Kahani
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNN HD" tvg-logo="https://i.postimg.cc/xCBdvWNR/image-search-1789905869574.png" group-title="Pakistani",GNN HD
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png" group-title="Pakistani",HUM TV
+https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LTN FAMILY HD" tvg-logo="https://i.postimg.cc/6qdBdTXK/image-search-1789906032730.webp" group-title="Pakistani",LTN FAMILY HD
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png" group-title="Pakistani",News24
+https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PNN" tvg-logo="https://i.postimg.cc/BbJVVvFX/image-search-1789906311456.png" group-title="Pakistani",PNN
+https://s2.ideationtec.live/Pnn/Pnn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTC Music" tvg-logo="https://i.postimg.cc/NFKqPkBP/image.png" group-title="Pakistani",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROHI TV" tvg-logo="https://i.postimg.cc/Y0XbDzMw/image-search-1789906424184.jpg" group-title="Pakistani",ROHI TV
+https://s2.ideationtec.live/Roohi_TV/Roohi_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAB ENTERTAINMENT" tvg-logo="https://i.postimg.cc/152Kgtzv/image-search-1789906537112.jpg" group-title="Pakistani",SAB ENTERTAINMENT
+https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8

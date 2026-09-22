@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8df44874-5511-4c78-a854-8ab6dd6861e5" tvg-name="DD Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="Kolkata Bangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enter 10 Bangla (S1)" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="Kolkata Bangla",Enter 10 Bangla (S1)
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enter 10 Bangla (S2)" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="Kolkata Bangla",Enter 10 Bangla (S2)
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enter 10 Bangla (S3)" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgAFwCYOX0V7GEToy8keJKiMiqfAxNPm68YAfUFg=s900-c-k-c0x00ffffff-no-rj" group-title="Kolkata Bangla",Enter 10 Bangla (S3)
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enter 10 Bangla (S4)" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" group-title="Kolkata Bangla",Enter 10 Bangla (S4)
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kolkata TV (S1)" tvg-logo="https://i.postimg.cc/50Cvv5KD/image-search-1789904410477.png" group-title="Kolkata Bangla",kolkata TV (S1)
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kolkata TV (S2)" tvg-logo="https://i.postimg.cc/50Cvv5KD/image-search-1789904410477.png" group-title="Kolkata Bangla",Kolkata TV (S2)
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kolkata TV (S3)" tvg-logo="https://i.postimg.cc/50Cvv5KD/image-search-1789904410477.png" group-title="Kolkata Bangla",Kolkata TV (S3)
+https://cdn.ottlive.co.in/kolkatatv/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="262789f8-92af-4738-986c-c5deafeef997" tvg-name="kolkata TV (S4)" tvg-logo="https://i.postimg.cc/50Cvv5KD/image-search-1789904410477.png" group-title="Kolkata Bangla",kolkata TV (S4)
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1784102634&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7dd61eff112afc871fa5ff030faacde9
+#EXTINF:-1 tvg-id="" tvg-name="Rongeen TV (S1)" tvg-logo="https://otapp.store/uploads/tv_image/sm/rongeen-tv.png" group-title="Kolkata Bangla",Rongeen TV (S1)
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rongeen TV (S2)" tvg-logo="https://otapp.store/uploads/tv_image/sm/rongeen-tv.png" group-title="Kolkata Bangla",Rongeen TV (S2)
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png" group-title="Kolkata Bangla",Sun Bangla
+https://box.bbaria.net:8083/SUN_BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UPHAR BANGLA" tvg-logo="https://i.postimg.cc/DyBWSYy1/image-search-1789904516956.png" group-title="Kolkata Bangla",UPHAR BANGLA
+https://ranacable.duckdns.org/UpoharBangla/tracks-v1a1/index.m3u8
